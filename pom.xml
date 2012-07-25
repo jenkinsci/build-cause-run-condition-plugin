@@ -35,7 +35,7 @@
     <artifactId>build-cause-run-condition</artifactId>
     <packaging>hpi</packaging>
     <name>Build Cause Run Condition Plugin</name>
-    <version>0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <description>Extendable build cause condition for the Run Condition Plugin, to be used with http://wiki.jenkins-ci.org/display/JENKINS/Run+Condition+Plugin</description>
     <url>http://wiki.jenkins-ci.org/display/JENKINS/Build+Cause+Run+Condition</url>
 
